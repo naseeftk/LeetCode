@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/naseeftk/LeetCode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/naseeftk/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/naseeftk/LeetCode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/naseeftk/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/naseeftk/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/naseeftk/LeetCode/tree/master/0389-find-the-difference) |
 ## String
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/naseeftk/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/naseeftk/LeetCode/tree/master/0125-valid-palindrome) |
 | [0287-find-the-duplicate-number](https://github.com/naseeftk/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/naseeftk/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/naseeftk/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [2481-strictly-palindromic-number](https://github.com/naseeftk/LeetCode/tree/master/2481-strictly-palindromic-number) |
 ## Array
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/naseeftk/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/naseeftk/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/naseeftk/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/naseeftk/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/naseeftk/LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 ## Binary Search
 |  |
@@ -55,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/naseeftk/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/naseeftk/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/naseeftk/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/naseeftk/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 ## Stack
 |  |
 | ------- |
@@ -93,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/naseeftk/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/naseeftk/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/naseeftk/LeetCode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/naseeftk/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/naseeftk/LeetCode/tree/master/0389-find-the-difference) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/naseeftk/LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 ## Divide and Conquer
