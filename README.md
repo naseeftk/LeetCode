@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/naseeftk/LeetCode/tree/master/0050-powx-n) |
 | [0268-missing-number](https://github.com/naseeftk/LeetCode/tree/master/0268-missing-number) |
+| [0507-perfect-number](https://github.com/naseeftk/LeetCode/tree/master/0507-perfect-number) |
 | [2481-strictly-palindromic-number](https://github.com/naseeftk/LeetCode/tree/master/2481-strictly-palindromic-number) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/naseeftk/LeetCode/tree/master/2608-count-the-digits-that-divide-a-number) |
 ## Recursion
