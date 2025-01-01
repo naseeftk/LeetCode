@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/naseeftk/LeetCode/tree/master/0389-find-the-difference) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/naseeftk/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/naseeftk/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [3636-check-balanced-string](https://github.com/naseeftk/LeetCode/tree/master/3636-check-balanced-string) |
 ## Queue
 |  |
 | ------- |
