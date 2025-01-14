@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/naseeftk/LeetCode/tree/master/0507-perfect-number) |
 | [2383-add-two-integers](https://github.com/naseeftk/LeetCode/tree/master/2383-add-two-integers) |
 | [2481-strictly-palindromic-number](https://github.com/naseeftk/LeetCode/tree/master/2481-strictly-palindromic-number) |
+| [2491-smallest-even-multiple](https://github.com/naseeftk/LeetCode/tree/master/2491-smallest-even-multiple) |
 | [2541-sum-of-number-and-its-reverse](https://github.com/naseeftk/LeetCode/tree/master/2541-sum-of-number-and-its-reverse) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/naseeftk/LeetCode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/naseeftk/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
@@ -160,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2541-sum-of-number-and-its-reverse](https://github.com/naseeftk/LeetCode/tree/master/2541-sum-of-number-and-its-reverse) |
+## Number Theory
+|  |
+| ------- |
+| [2491-smallest-even-multiple](https://github.com/naseeftk/LeetCode/tree/master/2491-smallest-even-multiple) |
 <!---LeetCode Topics End-->
