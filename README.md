@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/naseeftk/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/naseeftk/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/naseeftk/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [1168-duplicate-zeros](https://github.com/naseeftk/LeetCode/tree/master/1168-duplicate-zeros) |
 | [2481-strictly-palindromic-number](https://github.com/naseeftk/LeetCode/tree/master/2481-strictly-palindromic-number) |
 ## Array
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/naseeftk/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/naseeftk/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0948-sort-an-array](https://github.com/naseeftk/LeetCode/tree/master/0948-sort-an-array) |
+| [1168-duplicate-zeros](https://github.com/naseeftk/LeetCode/tree/master/1168-duplicate-zeros) |
 | [1524-string-matching-in-an-array](https://github.com/naseeftk/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/naseeftk/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/naseeftk/LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
