@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/naseeftk/LeetCode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/naseeftk/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/naseeftk/LeetCode/tree/master/0389-find-the-difference) |
+| [0412-fizz-buzz](https://github.com/naseeftk/LeetCode/tree/master/0412-fizz-buzz) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/naseeftk/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/naseeftk/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1524-string-matching-in-an-array](https://github.com/naseeftk/LeetCode/tree/master/1524-string-matching-in-an-array) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/naseeftk/LeetCode/tree/master/0050-powx-n) |
 | [0268-missing-number](https://github.com/naseeftk/LeetCode/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/naseeftk/LeetCode/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/naseeftk/LeetCode/tree/master/0507-perfect-number) |
 | [2383-add-two-integers](https://github.com/naseeftk/LeetCode/tree/master/2383-add-two-integers) |
 | [2481-strictly-palindromic-number](https://github.com/naseeftk/LeetCode/tree/master/2481-strictly-palindromic-number) |
@@ -182,4 +184,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3731-sum-of-variable-length-subarrays](https://github.com/naseeftk/LeetCode/tree/master/3731-sum-of-variable-length-subarrays) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/naseeftk/LeetCode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
