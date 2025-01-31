@@ -188,4 +188,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/naseeftk/LeetCode/tree/master/0412-fizz-buzz) |
+## Database
+|  |
+| ------- |
+| [0627-swap-salary](https://github.com/naseeftk/LeetCode/tree/master/0627-swap-salary) |
 <!---LeetCode Topics End-->
