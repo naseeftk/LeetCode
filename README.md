@@ -193,4 +193,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0175-combine-two-tables](https://github.com/naseeftk/LeetCode/tree/master/0175-combine-two-tables) |
 | [0627-swap-salary](https://github.com/naseeftk/LeetCode/tree/master/0627-swap-salary) |
+| [1892-find-total-time-spent-by-each-employee](https://github.com/naseeftk/LeetCode/tree/master/1892-find-total-time-spent-by-each-employee) |
 <!---LeetCode Topics End-->
