@@ -1,0 +1,8 @@
+/* Write your T-SQL query statement below */
+/* Write your T-SQL query statement below */
+SELECT v.CUSTOMER_ID , COUNT(V.CUSTOMER_ID) AS COUNT_NO_TRANS 
+FROM VISITS v
+ LEFT JOIN TRANSACTIONS t
+ON v.VISIT_ID = t.VISIT_ID
+WHERE t.VISIT_ID IS NULL
+GROUP BY v.CUSTOMER_ID;
