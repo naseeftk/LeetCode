@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-project-employees-i](https://github.com/naseeftk/LeetCode/tree/master/1161-project-employees-i) |
 | [1179-game-play-analysis-i](https://github.com/naseeftk/LeetCode/tree/master/1179-game-play-analysis-i) |
 | [1258-article-views-i](https://github.com/naseeftk/LeetCode/tree/master/1258-article-views-i) |
+| [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/naseeftk/LeetCode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1827-invalid-tweets](https://github.com/naseeftk/LeetCode/tree/master/1827-invalid-tweets) |
 | [1837-daily-leads-and-partners](https://github.com/naseeftk/LeetCode/tree/master/1837-daily-leads-and-partners) |
 | [1892-find-total-time-spent-by-each-employee](https://github.com/naseeftk/LeetCode/tree/master/1892-find-total-time-spent-by-each-employee) |
