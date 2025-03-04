@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/naseeftk/LeetCode/tree/master/0412-fizz-buzz) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/naseeftk/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/naseeftk/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/naseeftk/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1524-string-matching-in-an-array](https://github.com/naseeftk/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/naseeftk/LeetCode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3636-check-balanced-string](https://github.com/naseeftk/LeetCode/tree/master/3636-check-balanced-string) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/naseeftk/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/naseeftk/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 ## Two Pointers
 |  |
 | ------- |
@@ -211,4 +213,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1892-find-total-time-spent-by-each-employee](https://github.com/naseeftk/LeetCode/tree/master/1892-find-total-time-spent-by-each-employee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/naseeftk/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/naseeftk/LeetCode/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
+## Greedy
+|  |
+| ------- |
+| [1341-split-a-string-in-balanced-strings](https://github.com/naseeftk/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 <!---LeetCode Topics End-->
