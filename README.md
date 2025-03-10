@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/naseeftk/LeetCode/tree/master/0948-sort-an-array) |
 | [1168-duplicate-zeros](https://github.com/naseeftk/LeetCode/tree/master/1168-duplicate-zeros) |
 | [1524-string-matching-in-an-array](https://github.com/naseeftk/LeetCode/tree/master/1524-string-matching-in-an-array) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/naseeftk/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/naseeftk/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/naseeftk/LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/naseeftk/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
