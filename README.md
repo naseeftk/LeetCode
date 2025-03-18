@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/naseeftk/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/naseeftk/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/naseeftk/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0441-arranging-coins](https://github.com/naseeftk/LeetCode/tree/master/0441-arranging-coins) |
 ## Stack
 |  |
 | ------- |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/naseeftk/LeetCode/tree/master/0050-powx-n) |
 | [0268-missing-number](https://github.com/naseeftk/LeetCode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/naseeftk/LeetCode/tree/master/0412-fizz-buzz) |
+| [0441-arranging-coins](https://github.com/naseeftk/LeetCode/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/naseeftk/LeetCode/tree/master/0507-perfect-number) |
 | [2383-add-two-integers](https://github.com/naseeftk/LeetCode/tree/master/2383-add-two-integers) |
 | [2481-strictly-palindromic-number](https://github.com/naseeftk/LeetCode/tree/master/2481-strictly-palindromic-number) |
