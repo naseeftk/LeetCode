@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/naseeftk/LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/naseeftk/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/naseeftk/LeetCode/tree/master/0389-find-the-difference) |
+| [1319-unique-number-of-occurrences](https://github.com/naseeftk/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/naseeftk/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/naseeftk/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## String
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/naseeftk/LeetCode/tree/master/0948-sort-an-array) |
 | [1137-height-checker](https://github.com/naseeftk/LeetCode/tree/master/1137-height-checker) |
 | [1168-duplicate-zeros](https://github.com/naseeftk/LeetCode/tree/master/1168-duplicate-zeros) |
+| [1319-unique-number-of-occurrences](https://github.com/naseeftk/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1524-string-matching-in-an-array](https://github.com/naseeftk/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/naseeftk/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/naseeftk/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
