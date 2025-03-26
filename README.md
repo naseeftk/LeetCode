@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/naseeftk/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0043-multiply-strings](https://github.com/naseeftk/LeetCode/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/naseeftk/LeetCode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/naseeftk/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/naseeftk/LeetCode/tree/master/0242-valid-anagram) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/naseeftk/LeetCode/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/naseeftk/LeetCode/tree/master/0050-powx-n) |
 | [0268-missing-number](https://github.com/naseeftk/LeetCode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/naseeftk/LeetCode/tree/master/0412-fizz-buzz) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/naseeftk/LeetCode/tree/master/0043-multiply-strings) |
 | [0412-fizz-buzz](https://github.com/naseeftk/LeetCode/tree/master/0412-fizz-buzz) |
 | [3226-minimum-number-game](https://github.com/naseeftk/LeetCode/tree/master/3226-minimum-number-game) |
 ## Database
