@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1341-split-a-string-in-balanced-strings](https://github.com/naseeftk/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1524-string-matching-in-an-array](https://github.com/naseeftk/LeetCode/tree/master/1524-string-matching-in-an-array) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/naseeftk/LeetCode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
+| [3379-score-of-a-string](https://github.com/naseeftk/LeetCode/tree/master/3379-score-of-a-string) |
 | [3636-check-balanced-string](https://github.com/naseeftk/LeetCode/tree/master/3636-check-balanced-string) |
 ## Queue
 |  |
