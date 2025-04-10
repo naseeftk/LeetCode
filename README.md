@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2541-sum-of-number-and-its-reverse](https://github.com/naseeftk/LeetCode/tree/master/2541-sum-of-number-and-its-reverse) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/naseeftk/LeetCode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2649-count-total-number-of-colored-cells](https://github.com/naseeftk/LeetCode/tree/master/2649-count-total-number-of-colored-cells) |
+| [2812-find-the-maximum-achievable-number](https://github.com/naseeftk/LeetCode/tree/master/2812-find-the-maximum-achievable-number) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/naseeftk/LeetCode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/naseeftk/LeetCode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/naseeftk/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
