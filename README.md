@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/naseeftk/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2016-reduction-operations-to-make-the-array-elements-equal](https://github.com/naseeftk/LeetCode/tree/master/2016-reduction-operations-to-make-the-array-elements-equal) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/naseeftk/LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
+| [2058-concatenation-of-array](https://github.com/naseeftk/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/naseeftk/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/naseeftk/LeetCode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/naseeftk/LeetCode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/naseeftk/LeetCode/tree/master/0043-multiply-strings) |
 | [0412-fizz-buzz](https://github.com/naseeftk/LeetCode/tree/master/0412-fizz-buzz) |
+| [2058-concatenation-of-array](https://github.com/naseeftk/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/naseeftk/LeetCode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [3226-minimum-number-game](https://github.com/naseeftk/LeetCode/tree/master/3226-minimum-number-game) |
 ## Database
