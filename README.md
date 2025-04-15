@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/naseeftk/LeetCode/tree/master/0389-find-the-difference) |
 | [1319-unique-number-of-occurrences](https://github.com/naseeftk/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/naseeftk/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1635-number-of-good-pairs](https://github.com/naseeftk/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/naseeftk/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## String
 |  |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/naseeftk/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/naseeftk/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
+| [1635-number-of-good-pairs](https://github.com/naseeftk/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [3778-transform-array-by-parity](https://github.com/naseeftk/LeetCode/tree/master/3778-transform-array-by-parity) |
 ## Two Pointers
 |  |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/naseeftk/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/naseeftk/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/naseeftk/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1635-number-of-good-pairs](https://github.com/naseeftk/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2016-reduction-operations-to-make-the-array-elements-equal](https://github.com/naseeftk/LeetCode/tree/master/2016-reduction-operations-to-make-the-array-elements-equal) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/naseeftk/LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2058-concatenation-of-array](https://github.com/naseeftk/LeetCode/tree/master/2058-concatenation-of-array) |
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/naseeftk/LeetCode/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/naseeftk/LeetCode/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/naseeftk/LeetCode/tree/master/0507-perfect-number) |
+| [1635-number-of-good-pairs](https://github.com/naseeftk/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2383-add-two-integers](https://github.com/naseeftk/LeetCode/tree/master/2383-add-two-integers) |
 | [2481-strictly-palindromic-number](https://github.com/naseeftk/LeetCode/tree/master/2481-strictly-palindromic-number) |
 | [2491-smallest-even-multiple](https://github.com/naseeftk/LeetCode/tree/master/2491-smallest-even-multiple) |
