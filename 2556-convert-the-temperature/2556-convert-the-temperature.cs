@@ -4,8 +4,8 @@ public class Solution {
         double f1=celsius*1.80+32.00;
       
         double[] arr= new double[2];
-        arr[0]=Convert.ToDouble(k1);
-        arr[1]=Convert.ToDouble(f1);
+        arr[0]=k1;
+        arr[1]=f1;
         return arr;
     }
 }
