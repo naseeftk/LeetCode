@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/naseeftk/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/naseeftk/LeetCode/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1635-number-of-good-pairs](https://github.com/naseeftk/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/naseeftk/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/naseeftk/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## String
 |  |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/naseeftk/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/naseeftk/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1524-string-matching-in-an-array](https://github.com/naseeftk/LeetCode/tree/master/1524-string-matching-in-an-array) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/naseeftk/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/naseeftk/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/naseeftk/LeetCode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3194-find-words-containing-character](https://github.com/naseeftk/LeetCode/tree/master/3194-find-words-containing-character) |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/naseeftk/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/naseeftk/LeetCode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1635-number-of-good-pairs](https://github.com/naseeftk/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/naseeftk/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [3778-transform-array-by-parity](https://github.com/naseeftk/LeetCode/tree/master/3778-transform-array-by-parity) |
 ## Two Pointers
 |  |
@@ -90,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/naseeftk/LeetCode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/naseeftk/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/naseeftk/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/naseeftk/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1791-richest-customer-wealth](https://github.com/naseeftk/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [2016-reduction-operations-to-make-the-array-elements-equal](https://github.com/naseeftk/LeetCode/tree/master/2016-reduction-operations-to-make-the-array-elements-equal) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/naseeftk/LeetCode/tree/master/2042-maximum-product-difference-between-two-pairs) |
@@ -164,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/naseeftk/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/naseeftk/LeetCode/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/naseeftk/LeetCode/tree/master/0389-find-the-difference) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/naseeftk/LeetCode/tree/master/1786-count-the-number-of-consistent-strings) |
 ## Sorting
 |  |
 | ------- |
